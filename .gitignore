@@ -1,0 +1,7 @@
+.DS_Store
+.envrc
+node_modules/
+*.vsix
+out/
+dist/
+.vscode-test/
